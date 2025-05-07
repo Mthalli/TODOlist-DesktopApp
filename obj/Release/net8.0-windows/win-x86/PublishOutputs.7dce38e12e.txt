@@ -1,0 +1,8 @@
+C:\Users\mkozi\Desktop\TODOlist_forms.pdb
+C:\Users\mkozi\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\mkozi\Desktop\PenImc_cor3.dll
+C:\Users\mkozi\Desktop\PresentationNative_cor3.dll
+C:\Users\mkozi\Desktop\vcruntime140_cor3.dll
+C:\Users\mkozi\Desktop\wpfgfx_cor3.dll
+C:\Users\mkozi\Desktop\e_sqlite3.dll
+C:\Users\mkozi\Desktop\TODOlist_forms.exe

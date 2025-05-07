@@ -1,0 +1,3 @@
+C:\Users\mkozi\Desktop\FULLY WORKING APP\TODOlist_forms.pdb
+C:\Users\mkozi\Desktop\FULLY WORKING APP\e_sqlite3.dll
+C:\Users\mkozi\Desktop\FULLY WORKING APP\TODOlist_forms.exe

@@ -1,0 +1,2 @@
+C:\Users\mkozi\source\repos\TODOlist_forms\bin\Release\net8.0-windows\win-x64\publish\TODOlist_forms.pdb
+C:\Users\mkozi\source\repos\TODOlist_forms\bin\Release\net8.0-windows\win-x64\publish\TODOlist_forms.exe

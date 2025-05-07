@@ -1,0 +1,8 @@
+C:\Users\mkozi\Desktop\TODOapp\TODOlist_forms.pdb
+C:\Users\mkozi\Desktop\TODOapp\D3DCompiler_47_cor3.dll
+C:\Users\mkozi\Desktop\TODOapp\PenImc_cor3.dll
+C:\Users\mkozi\Desktop\TODOapp\PresentationNative_cor3.dll
+C:\Users\mkozi\Desktop\TODOapp\vcruntime140_cor3.dll
+C:\Users\mkozi\Desktop\TODOapp\wpfgfx_cor3.dll
+C:\Users\mkozi\Desktop\TODOapp\e_sqlite3.dll
+C:\Users\mkozi\Desktop\TODOapp\TODOlist_forms.exe
