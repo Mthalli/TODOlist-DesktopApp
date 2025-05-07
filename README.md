@@ -19,6 +19,6 @@ https://github.com/user-attachments/assets/95b3fda7-d089-4c82-96c5-3133ccc32997
   
 
 ## 🚀 Running app
-1. Download folder "FULLY_WORKING_APP" with .exe file inside
+1. Download repository
 2. Download .NET 8.0 Runtime from https://dotnet.microsoft.com/en-us/download
-3. Open .exe file and you are ready to use the app
+3. Open "FULLY_WORKING_APP" and then open .exe file and you are ready to use the app (no programming environment except .NET 8.0 required)
